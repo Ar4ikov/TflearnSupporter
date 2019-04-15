@@ -1,0 +1,1 @@
+{"model_name": "test", "path_to_model": "test/test.model", "run_id": 0, "run_uuid": null, "last_train_date": null, "layers": [{"layer": "input_data", "args": [], "params": {"shape": [null, 1]}}, {"layer": "fully_connected", "args": [1], "params": {}}]}
